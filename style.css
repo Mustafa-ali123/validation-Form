@@ -1,0 +1,25 @@
+#captain{
+   position: relative;
+   left: 75vh;
+   top:15vh;
+}
+
+body{
+    background-color: lightslategray;
+
+}
+input{
+   height: 25px; 
+}
+::placeholder{
+    color:darkgray;
+    font-weight: bold;
+}
+.button{
+    background-color: aqua;
+    border-color: beige;
+    height: 30px;
+    width: 20vh;
+    margin-left:15vh;
+    margin-top: 30px;
+}
